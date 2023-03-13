@@ -45,6 +45,6 @@ AND department_id != 110;
 6.
 SELECT
     first_name,
-    last_name,
+    last_name
 FROM employees
 WHERE salary BETWEEN 4999 AND 7001;
